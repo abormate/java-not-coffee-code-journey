@@ -1,4 +1,6 @@
-public class Tree {
+// Program written in simple Java. That introduces oneself and then plants a virtual tree.
+
+public class Planting A Tree {
   public static void main(String[] args) {
     /* We're going to introduce ourselves and print a tree to the screen. */
     System.out.println("Hello there! I'm Abe and am learning to code in Java.");
